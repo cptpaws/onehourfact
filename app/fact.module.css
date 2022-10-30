@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Bebas+Neue&family=Luckiest+Guy&family=Oleo+Script&family=Playball&family=Press+Start+2P&family=Righteous&family=Special+Elite&display=swap');
+
+.container {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 4rem;
+    font-family: "Playball", sans-serif;
+    color: #6b6565;
+}
+
+.author {
+    text-align: right;
+    margin-top: 0.5rem;
+    margin-right: 3rem;
+    font-size: 1.75rem;
+    color: #bdb8b8;
+}
